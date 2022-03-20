@@ -6,6 +6,6 @@
 
 #solution:
                    1.vi newfile  
-		               2.chmod a+rw newfile 
+		   2.chmod a+rw newfile 
                    3.tar -czf newfile.tgz newfile
-		                 ls -lh newfile.tgz
+		     ls -lh newfile.tgz
